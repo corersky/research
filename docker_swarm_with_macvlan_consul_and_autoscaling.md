@@ -1,3 +1,6 @@
+Borrowed from
+https://gist.github.com/thaJeztah/83e7469c85bac28ae90b5178a4919301
+
 # Docker Swarm with Macvlan, Consul and Autoscaling
 #### TL;DR: 
 This will get you routable containers with IPs on your existing subnets, advertising to Consul. They will also be scalable and placed across a cluster of Swarm hosts. It's assumed that you are already running Consul, so if not, there are a ton of tutorials out there. It's also assumed you know how to install Docker and various Linux kernels.
