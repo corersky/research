@@ -1,9 +1,11 @@
 
 ## AWS
 
-m4.2xlarge
-m4.xlarge
-m3.xlarge
+- m4.2xlarge
+- m4.xlarge
+- m3.xlarge
+
+
 
 ## Docker Logging Gotchas
 Use Logspout/ Sematext Docker Agent
